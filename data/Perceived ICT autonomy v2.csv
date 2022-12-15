@@ -1,0 +1,737 @@
+﻿"Country","Gender","Score by Gender","Immigration Status","Score by Immigration","Language","Score by Language","Internet: Y/N","Score by Internet","Computer: Y/N","Score by Computer"
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Country of test",-0.0178115499303537,"Language of the test",-0.0069524710759324496,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Female",-0.231139823549349,"Country of test",-0.06118558477029008,"Language of the test",-0.0582130506171218,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Female",-0.26,"Country of test",-0.04,"Language of the test",-0.05,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Greece","Female",-0.33067496466445906,"Country of test",-0.130463776058161,"Language of the test",-0.134118419683387,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Female",-0.11,"Country of test",0.02,"Language of the test",0.02,"Internet at home: Yes",0.04,"Computer for school work at home: Yes",0.04
+"Korea","Female",-0.33601574745708496,"Country of test",-0.211304977078104,"Language of the test",-0.21364179957570903,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Female",-0.181880080799872,"Country of test",-0.03943891215162831,"Language of the test",-0.022504612419221907,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Female",-0.01,"Country of test",0.17,"Language of the test",0.19,"Internet at home: Yes",0.18,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Female",-0.56,"Country of test",-0.33999999999999997,"Language of the test",-0.33999999999999997,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: Yes",-0.32
+"Spain","Female",-0.06,"Country of test",0.08,"Language of the test",0.08,"Internet at home: Yes",0.09,"Computer for school work at home: Yes",0.09
+"Albania","Female",-0.04029459790932081,"Country of test",0.054420172673474085,"Language of the test",0.067484977520734,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Female",-0.07,"Country of test",0.01,"Language of the test",0.19,"Internet at home: Yes",0.07,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Female",-0.0299218105903627,"Country of test",0.09462635415180244,"Language of the test",0.100311242121761,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Female",-0.41000000000000003,"Country of test",-0.2,"Language of the test",-0.21000000000000002,"Internet at home: Yes",-0.16,"Computer for school work at home: Yes",-0.13
+"Croatia","Female",-0.128212540216528,"Country of test",0.0554082038408991,"Language of the test",0.053670992706255485,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Female",0.19232177426618993,"Country of test",0.252899880079299,"Language of the test",0.26965650721225204,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Female",-0.14,"Country of test",-0.07,"Language of the test",-0.08,"Internet at home: Yes",-0.06,"Computer for school work at home: Yes",-0.02
+"Malta","Female",0,"Country of test",0.16,"Language of the test",0.32,"Internet at home: Yes",0.17,"Computer for school work at home: Yes",0.17
+"Morocco","Female",-0.17,"Country of test",-0.17,"Language of the test",-0.37,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Russia","Female",-0.3010668621489971,"Country of test",-0.10402672903724602,"Language of the test",-0.09780883908157527,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Female",-0.11,"Country of test",0.02,"Language of the test",0.02,"Internet at home: Yes",0.02,"Computer for school work at home: Yes",0.03
+"Singapore","Female",0.028398090865043395,"Country of test",0.20404539847019507,"Language of the test",0.231364845076525,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Female",-0.2770199972480421,"Country of test",-0.182573424870838,"Language of the test",-0.179773741743882,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Country of test",-0.0178115499303537,"Language of the test",-0.0069524710759324496,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Male",0.11039829483719,"Country of test",-0.06118558477029008,"Language of the test",-0.0582130506171218,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Male",0.16,"Country of test",-0.04,"Language of the test",-0.05,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Greece","Male",0.0728811326302378,"Country of test",-0.130463776058161,"Language of the test",-0.134118419683387,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Male",0.16,"Country of test",0.02,"Language of the test",0.02,"Internet at home: Yes",0.04,"Computer for school work at home: Yes",0.04
+"Korea","Male",-0.10003768714373798,"Country of test",-0.211304977078104,"Language of the test",-0.21364179957570903,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Male",0.11812961298930498,"Country of test",-0.03943891215162831,"Language of the test",-0.022504612419221907,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Male",0.35,"Country of test",0.17,"Language of the test",0.19,"Internet at home: Yes",0.18,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Male",-0.11,"Country of test",-0.33999999999999997,"Language of the test",-0.33999999999999997,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: Yes",-0.32
+"Spain","Male",0.22,"Country of test",0.08,"Language of the test",0.08,"Internet at home: Yes",0.09,"Computer for school work at home: Yes",0.09
+"Albania","Male",0.170690781600969,"Country of test",0.054420172673474085,"Language of the test",0.067484977520734,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Male",0.1,"Country of test",0.01,"Language of the test",0.19,"Internet at home: Yes",0.07,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Male",0.213730683903741,"Country of test",0.09462635415180244,"Language of the test",0.100311242121761,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Male",0.02,"Country of test",-0.2,"Language of the test",-0.21000000000000002,"Internet at home: Yes",-0.16,"Computer for school work at home: Yes",-0.13
+"Croatia","Male",0.250261429874128,"Country of test",0.0554082038408991,"Language of the test",0.053670992706255485,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Male",0.356800063633103,"Country of test",0.252899880079299,"Language of the test",0.26965650721225204,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Male",-0.03,"Country of test",-0.07,"Language of the test",-0.08,"Internet at home: Yes",-0.06,"Computer for school work at home: Yes",-0.02
+"Malta","Male",0.33999999999999997,"Country of test",0.16,"Language of the test",0.32,"Internet at home: Yes",0.17,"Computer for school work at home: Yes",0.17
+"Morocco","Male",-0.17,"Country of test",-0.17,"Language of the test",-0.37,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Russia","Male",0.09720048452986328,"Country of test",-0.10402672903724602,"Language of the test",-0.09780883908157527,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Male",0.14,"Country of test",0.02,"Language of the test",0.02,"Internet at home: Yes",0.02,"Computer for school work at home: Yes",0.03
+"Singapore","Male",0.41137089012260003,"Country of test",0.20404539847019507,"Language of the test",0.231364845076525,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Male",-0.0770402736054214,"Country of test",-0.182573424870838,"Language of the test",-0.179773741743882,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Other country",0.013269880002852,"Language of the test",-0.0069524710759324496,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Female",-0.231139823549349,"Other country",-0.035764213414402,"Language of the test",-0.0582130506171218,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Female",-0.26,"Other country",-0.14,"Language of the test",-0.05,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Greece","Female",-0.33067496466445906,"Other country",-0.143599529772733,"Language of the test",-0.134118419683387,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Female",-0.11,"Other country",0.09,"Language of the test",0.02,"Internet at home: Yes",0.04,"Computer for school work at home: Yes",0.04
+"Korea","Female",-0.33601574745708496,"Other country",-0.16544626614594704,"Language of the test",-0.21364179957570903,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Female",-0.181880080799872,"Other country",0.042577698055548015,"Language of the test",-0.022504612419221907,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Female",-0.01,"Other country",0.18,"Language of the test",0.19,"Internet at home: Yes",0.18,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Female",-0.56,"Other country",-0.3,"Language of the test",-0.33999999999999997,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: Yes",-0.32
+"Spain","Female",-0.06,"Other country",0.16,"Language of the test",0.08,"Internet at home: Yes",0.09,"Computer for school work at home: Yes",0.09
+"Albania","Female",-0.04029459790932081,"Other country",0.22988842593417996,"Language of the test",0.067484977520734,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Female",-0.07,"Other country",0.15000000000000002,"Language of the test",0.19,"Internet at home: Yes",0.07,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Female",-0.0299218105903627,"Other country",0.0733429035211803,"Language of the test",0.100311242121761,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Female",-0.41000000000000003,"Other country",-0.18,"Language of the test",-0.21000000000000002,"Internet at home: Yes",-0.16,"Computer for school work at home: Yes",-0.13
+"Croatia","Female",-0.128212540216528,"Other country",0.0511724359779766,"Language of the test",0.053670992706255485,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Female",0.19232177426618993,"Other country",0.3616130898024111,"Language of the test",0.26965650721225204,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Female",-0.14,"Other country",-0.21000000000000002,"Language of the test",-0.08,"Internet at home: Yes",-0.06,"Computer for school work at home: Yes",-0.02
+"Malta","Female",0,"Other country",0.22,"Language of the test",0.32,"Internet at home: Yes",0.17,"Computer for school work at home: Yes",0.17
+"Morocco","Female",-0.17,"Other country",-0.19,"Language of the test",-0.37,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Russia","Female",-0.3010668621489971,"Other country",-0.164339772426381,"Language of the test",-0.09780883908157527,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Female",-0.11,"Other country",0.15000000000000002,"Language of the test",0.02,"Internet at home: Yes",0.02,"Computer for school work at home: Yes",0.03
+"Singapore","Female",0.028398090865043395,"Other country",0.31272914000634494,"Language of the test",0.231364845076525,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Female",-0.2770199972480421,"Other country",-0.236639586221533,"Language of the test",-0.179773741743882,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Other country",0.013269880002852,"Language of the test",-0.0069524710759324496,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Male",0.11039829483719,"Other country",-0.035764213414402,"Language of the test",-0.0582130506171218,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Male",0.16,"Other country",-0.14,"Language of the test",-0.05,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Greece","Male",0.0728811326302378,"Other country",-0.143599529772733,"Language of the test",-0.134118419683387,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Male",0.16,"Other country",0.09,"Language of the test",0.02,"Internet at home: Yes",0.04,"Computer for school work at home: Yes",0.04
+"Korea","Male",-0.10003768714373798,"Other country",-0.16544626614594704,"Language of the test",-0.21364179957570903,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Male",0.11812961298930498,"Other country",0.042577698055548015,"Language of the test",-0.022504612419221907,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Male",0.35,"Other country",0.18,"Language of the test",0.19,"Internet at home: Yes",0.18,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Male",-0.11,"Other country",-0.3,"Language of the test",-0.33999999999999997,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: Yes",-0.32
+"Spain","Male",0.22,"Other country",0.16,"Language of the test",0.08,"Internet at home: Yes",0.09,"Computer for school work at home: Yes",0.09
+"Albania","Male",0.170690781600969,"Other country",0.22988842593417996,"Language of the test",0.067484977520734,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Male",0.1,"Other country",0.15000000000000002,"Language of the test",0.19,"Internet at home: Yes",0.07,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Male",0.213730683903741,"Other country",0.0733429035211803,"Language of the test",0.100311242121761,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Male",0.02,"Other country",-0.18,"Language of the test",-0.21000000000000002,"Internet at home: Yes",-0.16,"Computer for school work at home: Yes",-0.13
+"Croatia","Male",0.250261429874128,"Other country",0.0511724359779766,"Language of the test",0.053670992706255485,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Male",0.356800063633103,"Other country",0.3616130898024111,"Language of the test",0.26965650721225204,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Male",-0.03,"Other country",-0.21000000000000002,"Language of the test",-0.08,"Internet at home: Yes",-0.06,"Computer for school work at home: Yes",-0.02
+"Malta","Male",0.33999999999999997,"Other country",0.22,"Language of the test",0.32,"Internet at home: Yes",0.17,"Computer for school work at home: Yes",0.17
+"Morocco","Male",-0.17,"Other country",-0.19,"Language of the test",-0.37,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Russia","Male",0.09720048452986328,"Other country",-0.164339772426381,"Language of the test",-0.09780883908157527,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Male",0.14,"Other country",0.15000000000000002,"Language of the test",0.02,"Internet at home: Yes",0.02,"Computer for school work at home: Yes",0.03
+"Singapore","Male",0.41137089012260003,"Other country",0.31272914000634494,"Language of the test",0.231364845076525,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Male",-0.0770402736054214,"Other country",-0.236639586221533,"Language of the test",-0.179773741743882,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Country of test",-0.0178115499303537,"Other language",-0.0126222962437893,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Female",-0.231139823549349,"Country of test",-0.06118558477029008,"Other language",-0.0387796398725658,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Female",-0.26,"Country of test",-0.04,"Other language",0.26,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Greece","Female",-0.33067496466445906,"Country of test",-0.130463776058161,"Other language",-0.11207719901688,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Female",-0.11,"Country of test",0.02,"Other language",0.08,"Internet at home: Yes",0.04,"Computer for school work at home: Yes",0.04
+"Korea","Female",-0.33601574745708496,"Country of test",-0.211304977078104,"Other language",0.010223362905998496,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Female",-0.181880080799872,"Country of test",-0.03943891215162831,"Other language",-0.15178580085147805,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Female",-0.01,"Country of test",0.17,"Other language",-0.09,"Internet at home: Yes",0.18,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Female",-0.56,"Country of test",-0.33999999999999997,"Other language",-0.4,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: Yes",-0.32
+"Spain","Female",-0.06,"Country of test",0.08,"Other language",0.09,"Internet at home: Yes",0.09,"Computer for school work at home: Yes",0.09
+"Albania","Female",-0.04029459790932081,"Country of test",0.054420172673474085,"Other language",0.023542281261473695,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Female",-0.07,"Country of test",0.01,"Other language",-0.01,"Internet at home: Yes",0.07,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Female",-0.0299218105903627,"Country of test",0.09462635415180244,"Other language",0.0450325577827101,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Female",-0.41000000000000003,"Country of test",-0.2,"Other language",0.04,"Internet at home: Yes",-0.16,"Computer for school work at home: Yes",-0.13
+"Croatia","Female",-0.128212540216528,"Country of test",0.0554082038408991,"Other language",0.11777050805017801,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Female",0.19232177426618993,"Country of test",0.252899880079299,"Other language",0.30132148018960503,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Female",-0.14,"Country of test",-0.07,"Other language",-0.11,"Internet at home: Yes",-0.06,"Computer for school work at home: Yes",-0.02
+"Malta","Female",0,"Country of test",0.16,"Other language",0.13,"Internet at home: Yes",0.17,"Computer for school work at home: Yes",0.17
+"Morocco","Female",-0.17,"Country of test",-0.17,"Other language",-0.15000000000000002,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Russia","Female",-0.3010668621489971,"Country of test",-0.10402672903724602,"Other language",-0.219308574640948,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Female",-0.11,"Country of test",0.02,"Other language",0.01,"Internet at home: Yes",0.02,"Computer for school work at home: Yes",0.03
+"Singapore","Female",0.028398090865043395,"Country of test",0.20404539847019507,"Other language",0.21247003517732205,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Female",-0.2770199972480421,"Country of test",-0.182573424870838,"Other language",-0.354434863496541,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Country of test",-0.0178115499303537,"Other language",-0.0126222962437893,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Male",0.11039829483719,"Country of test",-0.06118558477029008,"Other language",-0.0387796398725658,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Male",0.16,"Country of test",-0.04,"Other language",0.26,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Greece","Male",0.0728811326302378,"Country of test",-0.130463776058161,"Other language",-0.11207719901688,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Male",0.16,"Country of test",0.02,"Other language",0.08,"Internet at home: Yes",0.04,"Computer for school work at home: Yes",0.04
+"Korea","Male",-0.10003768714373798,"Country of test",-0.211304977078104,"Other language",0.010223362905998496,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Male",0.11812961298930498,"Country of test",-0.03943891215162831,"Other language",-0.15178580085147805,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Male",0.35,"Country of test",0.17,"Other language",-0.09,"Internet at home: Yes",0.18,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Male",-0.11,"Country of test",-0.33999999999999997,"Other language",-0.4,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: Yes",-0.32
+"Spain","Male",0.22,"Country of test",0.08,"Other language",0.09,"Internet at home: Yes",0.09,"Computer for school work at home: Yes",0.09
+"Albania","Male",0.170690781600969,"Country of test",0.054420172673474085,"Other language",0.023542281261473695,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Male",0.1,"Country of test",0.01,"Other language",-0.01,"Internet at home: Yes",0.07,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Male",0.213730683903741,"Country of test",0.09462635415180244,"Other language",0.0450325577827101,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Male",0.02,"Country of test",-0.2,"Other language",0.04,"Internet at home: Yes",-0.16,"Computer for school work at home: Yes",-0.13
+"Croatia","Male",0.250261429874128,"Country of test",0.0554082038408991,"Other language",0.11777050805017801,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Male",0.356800063633103,"Country of test",0.252899880079299,"Other language",0.30132148018960503,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Male",-0.03,"Country of test",-0.07,"Other language",-0.11,"Internet at home: Yes",-0.06,"Computer for school work at home: Yes",-0.02
+"Malta","Male",0.33999999999999997,"Country of test",0.16,"Other language",0.13,"Internet at home: Yes",0.17,"Computer for school work at home: Yes",0.17
+"Morocco","Male",-0.17,"Country of test",-0.17,"Other language",-0.15000000000000002,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Russia","Male",0.09720048452986328,"Country of test",-0.10402672903724602,"Other language",-0.219308574640948,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Male",0.14,"Country of test",0.02,"Other language",0.01,"Internet at home: Yes",0.02,"Computer for school work at home: Yes",0.03
+"Singapore","Male",0.41137089012260003,"Country of test",0.20404539847019507,"Other language",0.21247003517732205,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Male",-0.0770402736054214,"Country of test",-0.182573424870838,"Other language",-0.354434863496541,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Other country",0.013269880002852,"Other language",-0.0126222962437893,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Female",-0.231139823549349,"Other country",-0.035764213414402,"Other language",-0.0387796398725658,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Female",-0.26,"Other country",-0.14,"Other language",0.26,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Greece","Female",-0.33067496466445906,"Other country",-0.143599529772733,"Other language",-0.11207719901688,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Female",-0.11,"Other country",0.09,"Other language",0.08,"Internet at home: Yes",0.04,"Computer for school work at home: Yes",0.04
+"Korea","Female",-0.33601574745708496,"Other country",-0.16544626614594704,"Other language",0.010223362905998496,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Female",-0.181880080799872,"Other country",0.042577698055548015,"Other language",-0.15178580085147805,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Female",-0.01,"Other country",0.18,"Other language",-0.09,"Internet at home: Yes",0.18,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Female",-0.56,"Other country",-0.3,"Other language",-0.4,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: Yes",-0.32
+"Spain","Female",-0.06,"Other country",0.16,"Other language",0.09,"Internet at home: Yes",0.09,"Computer for school work at home: Yes",0.09
+"Albania","Female",-0.04029459790932081,"Other country",0.22988842593417996,"Other language",0.023542281261473695,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Female",-0.07,"Other country",0.15000000000000002,"Other language",-0.01,"Internet at home: Yes",0.07,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Female",-0.0299218105903627,"Other country",0.0733429035211803,"Other language",0.0450325577827101,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Female",-0.41000000000000003,"Other country",-0.18,"Other language",0.04,"Internet at home: Yes",-0.16,"Computer for school work at home: Yes",-0.13
+"Croatia","Female",-0.128212540216528,"Other country",0.0511724359779766,"Other language",0.11777050805017801,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Female",0.19232177426618993,"Other country",0.3616130898024111,"Other language",0.30132148018960503,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Female",-0.14,"Other country",-0.21000000000000002,"Other language",-0.11,"Internet at home: Yes",-0.06,"Computer for school work at home: Yes",-0.02
+"Malta","Female",0,"Other country",0.22,"Other language",0.13,"Internet at home: Yes",0.17,"Computer for school work at home: Yes",0.17
+"Morocco","Female",-0.17,"Other country",-0.19,"Other language",-0.15000000000000002,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Russia","Female",-0.3010668621489971,"Other country",-0.164339772426381,"Other language",-0.219308574640948,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Female",-0.11,"Other country",0.15000000000000002,"Other language",0.01,"Internet at home: Yes",0.02,"Computer for school work at home: Yes",0.03
+"Singapore","Female",0.028398090865043395,"Other country",0.31272914000634494,"Other language",0.21247003517732205,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Female",-0.2770199972480421,"Other country",-0.236639586221533,"Other language",-0.354434863496541,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Other country",0.013269880002852,"Other language",-0.0126222962437893,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Male",0.11039829483719,"Other country",-0.035764213414402,"Other language",-0.0387796398725658,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Male",0.16,"Other country",-0.14,"Other language",0.26,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Greece","Male",0.0728811326302378,"Other country",-0.143599529772733,"Other language",-0.11207719901688,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Male",0.16,"Other country",0.09,"Other language",0.08,"Internet at home: Yes",0.04,"Computer for school work at home: Yes",0.04
+"Korea","Male",-0.10003768714373798,"Other country",-0.16544626614594704,"Other language",0.010223362905998496,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Male",0.11812961298930498,"Other country",0.042577698055548015,"Other language",-0.15178580085147805,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Male",0.35,"Other country",0.18,"Other language",-0.09,"Internet at home: Yes",0.18,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Male",-0.11,"Other country",-0.3,"Other language",-0.4,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: Yes",-0.32
+"Spain","Male",0.22,"Other country",0.16,"Other language",0.09,"Internet at home: Yes",0.09,"Computer for school work at home: Yes",0.09
+"Albania","Male",0.170690781600969,"Other country",0.22988842593417996,"Other language",0.023542281261473695,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Male",0.1,"Other country",0.15000000000000002,"Other language",-0.01,"Internet at home: Yes",0.07,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Male",0.213730683903741,"Other country",0.0733429035211803,"Other language",0.0450325577827101,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Male",0.02,"Other country",-0.18,"Other language",0.04,"Internet at home: Yes",-0.16,"Computer for school work at home: Yes",-0.13
+"Croatia","Male",0.250261429874128,"Other country",0.0511724359779766,"Other language",0.11777050805017801,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Male",0.356800063633103,"Other country",0.3616130898024111,"Other language",0.30132148018960503,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Male",-0.03,"Other country",-0.21000000000000002,"Other language",-0.11,"Internet at home: Yes",-0.06,"Computer for school work at home: Yes",-0.02
+"Malta","Male",0.33999999999999997,"Other country",0.22,"Other language",0.13,"Internet at home: Yes",0.17,"Computer for school work at home: Yes",0.17
+"Morocco","Male",-0.17,"Other country",-0.19,"Other language",-0.15000000000000002,"Internet at home: Yes",-0.02,"Computer for school work at home: Yes",-0.01
+"Russia","Male",0.09720048452986328,"Other country",-0.164339772426381,"Other language",-0.219308574640948,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Male",0.14,"Other country",0.15000000000000002,"Other language",0.01,"Internet at home: Yes",0.02,"Computer for school work at home: Yes",0.03
+"Singapore","Male",0.41137089012260003,"Other country",0.31272914000634494,"Other language",0.21247003517732205,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Male",-0.0770402736054214,"Other country",-0.236639586221533,"Other language",-0.354434863496541,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Country of test",-0.0178115499303537,"Language of the test",-0.0069524710759324496,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Female",-0.231139823549349,"Country of test",-0.06118558477029008,"Language of the test",-0.0582130506171218,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Female",-0.26,"Country of test",-0.04,"Language of the test",-0.05,"Internet at home: No",-0.23,"Computer for school work at home: Yes",-0.01
+"Greece","Female",-0.33067496466445906,"Country of test",-0.130463776058161,"Language of the test",-0.134118419683387,"Internet at home: No",-0.341651903464657,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Female",-0.11,"Country of test",0.02,"Language of the test",0.02,"Internet at home: No",-0.52,"Computer for school work at home: Yes",0.04
+"Korea","Female",-0.33601574745708496,"Country of test",-0.211304977078104,"Language of the test",-0.21364179957570903,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Female",-0.181880080799872,"Country of test",-0.03943891215162831,"Language of the test",-0.022504612419221907,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Female",-0.01,"Country of test",0.17,"Language of the test",0.19,"Internet at home: No",-0.46,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Female",-0.56,"Country of test",-0.33999999999999997,"Language of the test",-0.33999999999999997,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: Yes",-0.32
+"Spain","Female",-0.06,"Country of test",0.08,"Language of the test",0.08,"Internet at home: No",-0.09,"Computer for school work at home: Yes",0.09
+"Albania","Female",-0.04029459790932081,"Country of test",0.054420172673474085,"Language of the test",0.067484977520734,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Female",-0.07,"Country of test",0.01,"Language of the test",0.19,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Female",-0.0299218105903627,"Country of test",0.09462635415180244,"Language of the test",0.100311242121761,"Internet at home: No",-0.230113835200769,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Female",-0.41000000000000003,"Country of test",-0.2,"Language of the test",-0.21000000000000002,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: Yes",-0.13
+"Croatia","Female",-0.128212540216528,"Country of test",0.0554082038408991,"Language of the test",0.053670992706255485,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Female",0.19232177426618993,"Country of test",0.252899880079299,"Language of the test",0.26965650721225204,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Female",-0.14,"Country of test",-0.07,"Language of the test",-0.08,"Internet at home: No",-0.28,"Computer for school work at home: Yes",-0.02
+"Malta","Female",0,"Country of test",0.16,"Language of the test",0.32,"Internet at home: No",-0.02,"Computer for school work at home: Yes",0.17
+"Morocco","Female",-0.17,"Country of test",-0.17,"Language of the test",-0.37,"Internet at home: No",-0.38,"Computer for school work at home: Yes",-0.01
+"Russia","Female",-0.3010668621489971,"Country of test",-0.10402672903724602,"Language of the test",-0.09780883908157527,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Female",-0.11,"Country of test",0.02,"Language of the test",0.02,"Internet at home: No",-0.23,"Computer for school work at home: Yes",0.03
+"Singapore","Female",0.028398090865043395,"Country of test",0.20404539847019507,"Language of the test",0.231364845076525,"Internet at home: No",-0.151154284288941,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Female",-0.2770199972480421,"Country of test",-0.182573424870838,"Language of the test",-0.179773741743882,"Internet at home: No",-0.351993760848062,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Country of test",-0.0178115499303537,"Language of the test",-0.0069524710759324496,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Male",0.11039829483719,"Country of test",-0.06118558477029008,"Language of the test",-0.0582130506171218,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Male",0.16,"Country of test",-0.04,"Language of the test",-0.05,"Internet at home: No",-0.23,"Computer for school work at home: Yes",-0.01
+"Greece","Male",0.0728811326302378,"Country of test",-0.130463776058161,"Language of the test",-0.134118419683387,"Internet at home: No",-0.341651903464657,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Male",0.16,"Country of test",0.02,"Language of the test",0.02,"Internet at home: No",-0.52,"Computer for school work at home: Yes",0.04
+"Korea","Male",-0.10003768714373798,"Country of test",-0.211304977078104,"Language of the test",-0.21364179957570903,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Male",0.11812961298930498,"Country of test",-0.03943891215162831,"Language of the test",-0.022504612419221907,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Male",0.35,"Country of test",0.17,"Language of the test",0.19,"Internet at home: No",-0.46,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Male",-0.11,"Country of test",-0.33999999999999997,"Language of the test",-0.33999999999999997,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: Yes",-0.32
+"Spain","Male",0.22,"Country of test",0.08,"Language of the test",0.08,"Internet at home: No",-0.09,"Computer for school work at home: Yes",0.09
+"Albania","Male",0.170690781600969,"Country of test",0.054420172673474085,"Language of the test",0.067484977520734,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Male",0.1,"Country of test",0.01,"Language of the test",0.19,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Male",0.213730683903741,"Country of test",0.09462635415180244,"Language of the test",0.100311242121761,"Internet at home: No",-0.230113835200769,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Male",0.02,"Country of test",-0.2,"Language of the test",-0.21000000000000002,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: Yes",-0.13
+"Croatia","Male",0.250261429874128,"Country of test",0.0554082038408991,"Language of the test",0.053670992706255485,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Male",0.356800063633103,"Country of test",0.252899880079299,"Language of the test",0.26965650721225204,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Male",-0.03,"Country of test",-0.07,"Language of the test",-0.08,"Internet at home: No",-0.28,"Computer for school work at home: Yes",-0.02
+"Malta","Male",0.33999999999999997,"Country of test",0.16,"Language of the test",0.32,"Internet at home: No",-0.02,"Computer for school work at home: Yes",0.17
+"Morocco","Male",-0.17,"Country of test",-0.17,"Language of the test",-0.37,"Internet at home: No",-0.38,"Computer for school work at home: Yes",-0.01
+"Russia","Male",0.09720048452986328,"Country of test",-0.10402672903724602,"Language of the test",-0.09780883908157527,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Male",0.14,"Country of test",0.02,"Language of the test",0.02,"Internet at home: No",-0.23,"Computer for school work at home: Yes",0.03
+"Singapore","Male",0.41137089012260003,"Country of test",0.20404539847019507,"Language of the test",0.231364845076525,"Internet at home: No",-0.151154284288941,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Male",-0.0770402736054214,"Country of test",-0.182573424870838,"Language of the test",-0.179773741743882,"Internet at home: No",-0.351993760848062,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Other country",0.013269880002852,"Language of the test",-0.0069524710759324496,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Female",-0.231139823549349,"Other country",-0.035764213414402,"Language of the test",-0.0582130506171218,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Female",-0.26,"Other country",-0.14,"Language of the test",-0.05,"Internet at home: No",-0.23,"Computer for school work at home: Yes",-0.01
+"Greece","Female",-0.33067496466445906,"Other country",-0.143599529772733,"Language of the test",-0.134118419683387,"Internet at home: No",-0.341651903464657,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Female",-0.11,"Other country",0.09,"Language of the test",0.02,"Internet at home: No",-0.52,"Computer for school work at home: Yes",0.04
+"Korea","Female",-0.33601574745708496,"Other country",-0.16544626614594704,"Language of the test",-0.21364179957570903,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Female",-0.181880080799872,"Other country",0.042577698055548015,"Language of the test",-0.022504612419221907,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Female",-0.01,"Other country",0.18,"Language of the test",0.19,"Internet at home: No",-0.46,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Female",-0.56,"Other country",-0.3,"Language of the test",-0.33999999999999997,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: Yes",-0.32
+"Spain","Female",-0.06,"Other country",0.16,"Language of the test",0.08,"Internet at home: No",-0.09,"Computer for school work at home: Yes",0.09
+"Albania","Female",-0.04029459790932081,"Other country",0.22988842593417996,"Language of the test",0.067484977520734,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Female",-0.07,"Other country",0.15000000000000002,"Language of the test",0.19,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Female",-0.0299218105903627,"Other country",0.0733429035211803,"Language of the test",0.100311242121761,"Internet at home: No",-0.230113835200769,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Female",-0.41000000000000003,"Other country",-0.18,"Language of the test",-0.21000000000000002,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: Yes",-0.13
+"Croatia","Female",-0.128212540216528,"Other country",0.0511724359779766,"Language of the test",0.053670992706255485,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Female",0.19232177426618993,"Other country",0.3616130898024111,"Language of the test",0.26965650721225204,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Female",-0.14,"Other country",-0.21000000000000002,"Language of the test",-0.08,"Internet at home: No",-0.28,"Computer for school work at home: Yes",-0.02
+"Malta","Female",0,"Other country",0.22,"Language of the test",0.32,"Internet at home: No",-0.02,"Computer for school work at home: Yes",0.17
+"Morocco","Female",-0.17,"Other country",-0.19,"Language of the test",-0.37,"Internet at home: No",-0.38,"Computer for school work at home: Yes",-0.01
+"Russia","Female",-0.3010668621489971,"Other country",-0.164339772426381,"Language of the test",-0.09780883908157527,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Female",-0.11,"Other country",0.15000000000000002,"Language of the test",0.02,"Internet at home: No",-0.23,"Computer for school work at home: Yes",0.03
+"Singapore","Female",0.028398090865043395,"Other country",0.31272914000634494,"Language of the test",0.231364845076525,"Internet at home: No",-0.151154284288941,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Female",-0.2770199972480421,"Other country",-0.236639586221533,"Language of the test",-0.179773741743882,"Internet at home: No",-0.351993760848062,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Other country",0.013269880002852,"Language of the test",-0.0069524710759324496,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Male",0.11039829483719,"Other country",-0.035764213414402,"Language of the test",-0.0582130506171218,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Male",0.16,"Other country",-0.14,"Language of the test",-0.05,"Internet at home: No",-0.23,"Computer for school work at home: Yes",-0.01
+"Greece","Male",0.0728811326302378,"Other country",-0.143599529772733,"Language of the test",-0.134118419683387,"Internet at home: No",-0.341651903464657,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Male",0.16,"Other country",0.09,"Language of the test",0.02,"Internet at home: No",-0.52,"Computer for school work at home: Yes",0.04
+"Korea","Male",-0.10003768714373798,"Other country",-0.16544626614594704,"Language of the test",-0.21364179957570903,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Male",0.11812961298930498,"Other country",0.042577698055548015,"Language of the test",-0.022504612419221907,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Male",0.35,"Other country",0.18,"Language of the test",0.19,"Internet at home: No",-0.46,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Male",-0.11,"Other country",-0.3,"Language of the test",-0.33999999999999997,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: Yes",-0.32
+"Spain","Male",0.22,"Other country",0.16,"Language of the test",0.08,"Internet at home: No",-0.09,"Computer for school work at home: Yes",0.09
+"Albania","Male",0.170690781600969,"Other country",0.22988842593417996,"Language of the test",0.067484977520734,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Male",0.1,"Other country",0.15000000000000002,"Language of the test",0.19,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Male",0.213730683903741,"Other country",0.0733429035211803,"Language of the test",0.100311242121761,"Internet at home: No",-0.230113835200769,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Male",0.02,"Other country",-0.18,"Language of the test",-0.21000000000000002,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: Yes",-0.13
+"Croatia","Male",0.250261429874128,"Other country",0.0511724359779766,"Language of the test",0.053670992706255485,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Male",0.356800063633103,"Other country",0.3616130898024111,"Language of the test",0.26965650721225204,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Male",-0.03,"Other country",-0.21000000000000002,"Language of the test",-0.08,"Internet at home: No",-0.28,"Computer for school work at home: Yes",-0.02
+"Malta","Male",0.33999999999999997,"Other country",0.22,"Language of the test",0.32,"Internet at home: No",-0.02,"Computer for school work at home: Yes",0.17
+"Morocco","Male",-0.17,"Other country",-0.19,"Language of the test",-0.37,"Internet at home: No",-0.38,"Computer for school work at home: Yes",-0.01
+"Russia","Male",0.09720048452986328,"Other country",-0.164339772426381,"Language of the test",-0.09780883908157527,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Male",0.14,"Other country",0.15000000000000002,"Language of the test",0.02,"Internet at home: No",-0.23,"Computer for school work at home: Yes",0.03
+"Singapore","Male",0.41137089012260003,"Other country",0.31272914000634494,"Language of the test",0.231364845076525,"Internet at home: No",-0.151154284288941,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Male",-0.0770402736054214,"Other country",-0.236639586221533,"Language of the test",-0.179773741743882,"Internet at home: No",-0.351993760848062,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Country of test",-0.0178115499303537,"Other language",-0.0126222962437893,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Female",-0.231139823549349,"Country of test",-0.06118558477029008,"Other language",-0.0387796398725658,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Female",-0.26,"Country of test",-0.04,"Other language",0.26,"Internet at home: No",-0.23,"Computer for school work at home: Yes",-0.01
+"Greece","Female",-0.33067496466445906,"Country of test",-0.130463776058161,"Other language",-0.11207719901688,"Internet at home: No",-0.341651903464657,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Female",-0.11,"Country of test",0.02,"Other language",0.08,"Internet at home: No",-0.52,"Computer for school work at home: Yes",0.04
+"Korea","Female",-0.33601574745708496,"Country of test",-0.211304977078104,"Other language",0.010223362905998496,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Female",-0.181880080799872,"Country of test",-0.03943891215162831,"Other language",-0.15178580085147805,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Female",-0.01,"Country of test",0.17,"Other language",-0.09,"Internet at home: No",-0.46,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Female",-0.56,"Country of test",-0.33999999999999997,"Other language",-0.4,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: Yes",-0.32
+"Spain","Female",-0.06,"Country of test",0.08,"Other language",0.09,"Internet at home: No",-0.09,"Computer for school work at home: Yes",0.09
+"Albania","Female",-0.04029459790932081,"Country of test",0.054420172673474085,"Other language",0.023542281261473695,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Female",-0.07,"Country of test",0.01,"Other language",-0.01,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Female",-0.0299218105903627,"Country of test",0.09462635415180244,"Other language",0.0450325577827101,"Internet at home: No",-0.230113835200769,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Female",-0.41000000000000003,"Country of test",-0.2,"Other language",0.04,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: Yes",-0.13
+"Croatia","Female",-0.128212540216528,"Country of test",0.0554082038408991,"Other language",0.11777050805017801,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Female",0.19232177426618993,"Country of test",0.252899880079299,"Other language",0.30132148018960503,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Female",-0.14,"Country of test",-0.07,"Other language",-0.11,"Internet at home: No",-0.28,"Computer for school work at home: Yes",-0.02
+"Malta","Female",0,"Country of test",0.16,"Other language",0.13,"Internet at home: No",-0.02,"Computer for school work at home: Yes",0.17
+"Morocco","Female",-0.17,"Country of test",-0.17,"Other language",-0.15000000000000002,"Internet at home: No",-0.38,"Computer for school work at home: Yes",-0.01
+"Russia","Female",-0.3010668621489971,"Country of test",-0.10402672903724602,"Other language",-0.219308574640948,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Female",-0.11,"Country of test",0.02,"Other language",0.01,"Internet at home: No",-0.23,"Computer for school work at home: Yes",0.03
+"Singapore","Female",0.028398090865043395,"Country of test",0.20404539847019507,"Other language",0.21247003517732205,"Internet at home: No",-0.151154284288941,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Female",-0.2770199972480421,"Country of test",-0.182573424870838,"Other language",-0.354434863496541,"Internet at home: No",-0.351993760848062,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Country of test",-0.0178115499303537,"Other language",-0.0126222962437893,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Male",0.11039829483719,"Country of test",-0.06118558477029008,"Other language",-0.0387796398725658,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Male",0.16,"Country of test",-0.04,"Other language",0.26,"Internet at home: No",-0.23,"Computer for school work at home: Yes",-0.01
+"Greece","Male",0.0728811326302378,"Country of test",-0.130463776058161,"Other language",-0.11207719901688,"Internet at home: No",-0.341651903464657,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Male",0.16,"Country of test",0.02,"Other language",0.08,"Internet at home: No",-0.52,"Computer for school work at home: Yes",0.04
+"Korea","Male",-0.10003768714373798,"Country of test",-0.211304977078104,"Other language",0.010223362905998496,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Male",0.11812961298930498,"Country of test",-0.03943891215162831,"Other language",-0.15178580085147805,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Male",0.35,"Country of test",0.17,"Other language",-0.09,"Internet at home: No",-0.46,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Male",-0.11,"Country of test",-0.33999999999999997,"Other language",-0.4,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: Yes",-0.32
+"Spain","Male",0.22,"Country of test",0.08,"Other language",0.09,"Internet at home: No",-0.09,"Computer for school work at home: Yes",0.09
+"Albania","Male",0.170690781600969,"Country of test",0.054420172673474085,"Other language",0.023542281261473695,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Male",0.1,"Country of test",0.01,"Other language",-0.01,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Male",0.213730683903741,"Country of test",0.09462635415180244,"Other language",0.0450325577827101,"Internet at home: No",-0.230113835200769,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Male",0.02,"Country of test",-0.2,"Other language",0.04,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: Yes",-0.13
+"Croatia","Male",0.250261429874128,"Country of test",0.0554082038408991,"Other language",0.11777050805017801,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Male",0.356800063633103,"Country of test",0.252899880079299,"Other language",0.30132148018960503,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Male",-0.03,"Country of test",-0.07,"Other language",-0.11,"Internet at home: No",-0.28,"Computer for school work at home: Yes",-0.02
+"Malta","Male",0.33999999999999997,"Country of test",0.16,"Other language",0.13,"Internet at home: No",-0.02,"Computer for school work at home: Yes",0.17
+"Morocco","Male",-0.17,"Country of test",-0.17,"Other language",-0.15000000000000002,"Internet at home: No",-0.38,"Computer for school work at home: Yes",-0.01
+"Russia","Male",0.09720048452986328,"Country of test",-0.10402672903724602,"Other language",-0.219308574640948,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Male",0.14,"Country of test",0.02,"Other language",0.01,"Internet at home: No",-0.23,"Computer for school work at home: Yes",0.03
+"Singapore","Male",0.41137089012260003,"Country of test",0.20404539847019507,"Other language",0.21247003517732205,"Internet at home: No",-0.151154284288941,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Male",-0.0770402736054214,"Country of test",-0.182573424870838,"Other language",-0.354434863496541,"Internet at home: No",-0.351993760848062,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Other country",0.013269880002852,"Other language",-0.0126222962437893,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Female",-0.231139823549349,"Other country",-0.035764213414402,"Other language",-0.0387796398725658,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Female",-0.26,"Other country",-0.14,"Other language",0.26,"Internet at home: No",-0.23,"Computer for school work at home: Yes",-0.01
+"Greece","Female",-0.33067496466445906,"Other country",-0.143599529772733,"Other language",-0.11207719901688,"Internet at home: No",-0.341651903464657,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Female",-0.11,"Other country",0.09,"Other language",0.08,"Internet at home: No",-0.52,"Computer for school work at home: Yes",0.04
+"Korea","Female",-0.33601574745708496,"Other country",-0.16544626614594704,"Other language",0.010223362905998496,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Female",-0.181880080799872,"Other country",0.042577698055548015,"Other language",-0.15178580085147805,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Female",-0.01,"Other country",0.18,"Other language",-0.09,"Internet at home: No",-0.46,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Female",-0.56,"Other country",-0.3,"Other language",-0.4,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: Yes",-0.32
+"Spain","Female",-0.06,"Other country",0.16,"Other language",0.09,"Internet at home: No",-0.09,"Computer for school work at home: Yes",0.09
+"Albania","Female",-0.04029459790932081,"Other country",0.22988842593417996,"Other language",0.023542281261473695,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Female",-0.07,"Other country",0.15000000000000002,"Other language",-0.01,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Female",-0.0299218105903627,"Other country",0.0733429035211803,"Other language",0.0450325577827101,"Internet at home: No",-0.230113835200769,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Female",-0.41000000000000003,"Other country",-0.18,"Other language",0.04,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: Yes",-0.13
+"Croatia","Female",-0.128212540216528,"Other country",0.0511724359779766,"Other language",0.11777050805017801,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Female",0.19232177426618993,"Other country",0.3616130898024111,"Other language",0.30132148018960503,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Female",-0.14,"Other country",-0.21000000000000002,"Other language",-0.11,"Internet at home: No",-0.28,"Computer for school work at home: Yes",-0.02
+"Malta","Female",0,"Other country",0.22,"Other language",0.13,"Internet at home: No",-0.02,"Computer for school work at home: Yes",0.17
+"Morocco","Female",-0.17,"Other country",-0.19,"Other language",-0.15000000000000002,"Internet at home: No",-0.38,"Computer for school work at home: Yes",-0.01
+"Russia","Female",-0.3010668621489971,"Other country",-0.164339772426381,"Other language",-0.219308574640948,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Female",-0.11,"Other country",0.15000000000000002,"Other language",0.01,"Internet at home: No",-0.23,"Computer for school work at home: Yes",0.03
+"Singapore","Female",0.028398090865043395,"Other country",0.31272914000634494,"Other language",0.21247003517732205,"Internet at home: No",-0.151154284288941,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Female",-0.2770199972480421,"Other country",-0.236639586221533,"Other language",-0.354434863496541,"Internet at home: No",-0.351993760848062,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Other country",0.013269880002852,"Other language",-0.0126222962437893,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: Yes",0.025760725500969896
+"International Average (OECD)","Male",0.11039829483719,"Other country",-0.035764213414402,"Other language",-0.0387796398725658,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: Yes",-0.0424809257950913
+"Chile","Male",0.16,"Other country",-0.14,"Other language",0.26,"Internet at home: No",-0.23,"Computer for school work at home: Yes",-0.01
+"Greece","Male",0.0728811326302378,"Other country",-0.143599529772733,"Other language",-0.11207719901688,"Internet at home: No",-0.341651903464657,"Computer for school work at home: Yes",-0.110547709376676
+"Israel","Male",0.16,"Other country",0.09,"Other language",0.08,"Internet at home: No",-0.52,"Computer for school work at home: Yes",0.04
+"Korea","Male",-0.10003768714373798,"Other country",-0.16544626614594704,"Other language",0.010223362905998496,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: Yes",-0.191083400945694
+"Latvia","Male",0.11812961298930498,"Other country",0.042577698055548015,"Other language",-0.15178580085147805,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: Yes",-0.021676785669018803
+"Lithuania","Male",0.35,"Other country",0.18,"Other language",-0.09,"Internet at home: No",-0.46,"Computer for school work at home: Yes",0.19
+"Slovak Republic","Male",-0.11,"Other country",-0.3,"Other language",-0.4,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: Yes",-0.32
+"Spain","Male",0.22,"Other country",0.16,"Other language",0.09,"Internet at home: No",-0.09,"Computer for school work at home: Yes",0.09
+"Albania","Male",0.170690781600969,"Other country",0.22988842593417996,"Other language",0.023542281261473695,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: Yes",0.172032576037002
+"Brunei Darussalam","Male",0.1,"Other country",0.15000000000000002,"Other language",-0.01,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: Yes",0.08
+"Chinese Taipei","Male",0.213730683903741,"Other country",0.0733429035211803,"Other language",0.0450325577827101,"Internet at home: No",-0.230113835200769,"Computer for school work at home: Yes",0.134029016349098
+"Costa Rica","Male",0.02,"Other country",-0.18,"Other language",0.04,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: Yes",-0.13
+"Croatia","Male",0.250261429874128,"Other country",0.0511724359779766,"Other language",0.11777050805017801,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: Yes",0.0931725535598772
+"Hong Kong (China)","Male",0.356800063633103,"Other country",0.3616130898024111,"Other language",0.30132148018960503,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: Yes",0.2902725246703531
+"Kazakhstan","Male",-0.03,"Other country",-0.21000000000000002,"Other language",-0.11,"Internet at home: No",-0.28,"Computer for school work at home: Yes",-0.02
+"Malta","Male",0.33999999999999997,"Other country",0.22,"Other language",0.13,"Internet at home: No",-0.02,"Computer for school work at home: Yes",0.17
+"Morocco","Male",-0.17,"Other country",-0.19,"Other language",-0.15000000000000002,"Internet at home: No",-0.38,"Computer for school work at home: Yes",-0.01
+"Russia","Male",0.09720048452986328,"Other country",-0.164339772426381,"Other language",-0.219308574640948,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: Yes",-0.09742781558736528
+"Serbia","Male",0.14,"Other country",0.15000000000000002,"Other language",0.01,"Internet at home: No",-0.23,"Computer for school work at home: Yes",0.03
+"Singapore","Male",0.41137089012260003,"Other country",0.31272914000634494,"Other language",0.21247003517732205,"Internet at home: No",-0.151154284288941,"Computer for school work at home: Yes",0.2526271794130259
+"Thailand","Male",-0.0770402736054214,"Other country",-0.236639586221533,"Other language",-0.354434863496541,"Internet at home: No",-0.351993760848062,"Computer for school work at home: Yes",-0.08391906197610612
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Country of test",-0.0178115499303537,"Language of the test",-0.0069524710759324496,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Female",-0.231139823549349,"Country of test",-0.06118558477029008,"Language of the test",-0.0582130506171218,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Female",-0.26,"Country of test",-0.04,"Language of the test",-0.05,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.2
+"Greece","Female",-0.33067496466445906,"Country of test",-0.130463776058161,"Language of the test",-0.134118419683387,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: No",-0.316183717522175
+"Israel","Female",-0.11,"Country of test",0.02,"Language of the test",0.02,"Internet at home: Yes",0.04,"Computer for school work at home: No",-0.3
+"Korea","Female",-0.33601574745708496,"Country of test",-0.211304977078104,"Language of the test",-0.21364179957570903,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Female",-0.181880080799872,"Country of test",-0.03943891215162831,"Language of the test",-0.022504612419221907,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Female",-0.01,"Country of test",0.17,"Language of the test",0.19,"Internet at home: Yes",0.18,"Computer for school work at home: No",-0.14
+"Slovak Republic","Female",-0.56,"Country of test",-0.33999999999999997,"Language of the test",-0.33999999999999997,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: No",-0.54
+"Spain","Female",-0.06,"Country of test",0.08,"Language of the test",0.08,"Internet at home: Yes",0.09,"Computer for school work at home: No",-0.04
+"Albania","Female",-0.04029459790932081,"Country of test",0.054420172673474085,"Language of the test",0.067484977520734,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Female",-0.07,"Country of test",0.01,"Language of the test",0.19,"Internet at home: Yes",0.07,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Female",-0.0299218105903627,"Country of test",0.09462635415180244,"Language of the test",0.100311242121761,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Female",-0.41000000000000003,"Country of test",-0.2,"Language of the test",-0.21000000000000002,"Internet at home: Yes",-0.16,"Computer for school work at home: No",-0.4
+"Croatia","Female",-0.128212540216528,"Country of test",0.0554082038408991,"Language of the test",0.053670992706255485,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Female",0.19232177426618993,"Country of test",0.252899880079299,"Language of the test",0.26965650721225204,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Female",-0.14,"Country of test",-0.07,"Language of the test",-0.08,"Internet at home: Yes",-0.06,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Female",0,"Country of test",0.16,"Language of the test",0.32,"Internet at home: Yes",0.17,"Computer for school work at home: No",0.02
+"Morocco","Female",-0.17,"Country of test",-0.17,"Language of the test",-0.37,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.32
+"Russia","Female",-0.3010668621489971,"Country of test",-0.10402672903724602,"Language of the test",-0.09780883908157527,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Female",-0.11,"Country of test",0.02,"Language of the test",0.02,"Internet at home: Yes",0.02,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Female",0.028398090865043395,"Country of test",0.20404539847019507,"Language of the test",0.231364845076525,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Female",-0.2770199972480421,"Country of test",-0.182573424870838,"Language of the test",-0.179773741743882,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: No",-0.30116666196235303
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Country of test",-0.0178115499303537,"Language of the test",-0.0069524710759324496,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Male",0.11039829483719,"Country of test",-0.06118558477029008,"Language of the test",-0.0582130506171218,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Male",0.16,"Country of test",-0.04,"Language of the test",-0.05,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.2
+"Greece","Male",0.0728811326302378,"Country of test",-0.130463776058161,"Language of the test",-0.134118419683387,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: No",-0.316183717522175
+"Israel","Male",0.16,"Country of test",0.02,"Language of the test",0.02,"Internet at home: Yes",0.04,"Computer for school work at home: No",-0.3
+"Korea","Male",-0.10003768714373798,"Country of test",-0.211304977078104,"Language of the test",-0.21364179957570903,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Male",0.11812961298930498,"Country of test",-0.03943891215162831,"Language of the test",-0.022504612419221907,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Male",0.35,"Country of test",0.17,"Language of the test",0.19,"Internet at home: Yes",0.18,"Computer for school work at home: No",-0.14
+"Slovak Republic","Male",-0.11,"Country of test",-0.33999999999999997,"Language of the test",-0.33999999999999997,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: No",-0.54
+"Spain","Male",0.22,"Country of test",0.08,"Language of the test",0.08,"Internet at home: Yes",0.09,"Computer for school work at home: No",-0.04
+"Albania","Male",0.170690781600969,"Country of test",0.054420172673474085,"Language of the test",0.067484977520734,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Male",0.1,"Country of test",0.01,"Language of the test",0.19,"Internet at home: Yes",0.07,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Male",0.213730683903741,"Country of test",0.09462635415180244,"Language of the test",0.100311242121761,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Male",0.02,"Country of test",-0.2,"Language of the test",-0.21000000000000002,"Internet at home: Yes",-0.16,"Computer for school work at home: No",-0.4
+"Croatia","Male",0.250261429874128,"Country of test",0.0554082038408991,"Language of the test",0.053670992706255485,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Male",0.356800063633103,"Country of test",0.252899880079299,"Language of the test",0.26965650721225204,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Male",-0.03,"Country of test",-0.07,"Language of the test",-0.08,"Internet at home: Yes",-0.06,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Male",0.33999999999999997,"Country of test",0.16,"Language of the test",0.32,"Internet at home: Yes",0.17,"Computer for school work at home: No",0.02
+"Morocco","Male",-0.17,"Country of test",-0.17,"Language of the test",-0.37,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.32
+"Russia","Male",0.09720048452986328,"Country of test",-0.10402672903724602,"Language of the test",-0.09780883908157527,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Male",0.14,"Country of test",0.02,"Language of the test",0.02,"Internet at home: Yes",0.02,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Male",0.41137089012260003,"Country of test",0.20404539847019507,"Language of the test",0.231364845076525,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Male",-0.0770402736054214,"Country of test",-0.182573424870838,"Language of the test",-0.179773741743882,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: No",-0.30116666196235303
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Other country",0.013269880002852,"Language of the test",-0.0069524710759324496,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Female",-0.231139823549349,"Other country",-0.035764213414402,"Language of the test",-0.0582130506171218,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Female",-0.26,"Other country",-0.14,"Language of the test",-0.05,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.2
+"Greece","Female",-0.33067496466445906,"Other country",-0.143599529772733,"Language of the test",-0.134118419683387,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: No",-0.316183717522175
+"Israel","Female",-0.11,"Other country",0.09,"Language of the test",0.02,"Internet at home: Yes",0.04,"Computer for school work at home: No",-0.3
+"Korea","Female",-0.33601574745708496,"Other country",-0.16544626614594704,"Language of the test",-0.21364179957570903,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Female",-0.181880080799872,"Other country",0.042577698055548015,"Language of the test",-0.022504612419221907,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Female",-0.01,"Other country",0.18,"Language of the test",0.19,"Internet at home: Yes",0.18,"Computer for school work at home: No",-0.14
+"Slovak Republic","Female",-0.56,"Other country",-0.3,"Language of the test",-0.33999999999999997,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: No",-0.54
+"Spain","Female",-0.06,"Other country",0.16,"Language of the test",0.08,"Internet at home: Yes",0.09,"Computer for school work at home: No",-0.04
+"Albania","Female",-0.04029459790932081,"Other country",0.22988842593417996,"Language of the test",0.067484977520734,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Female",-0.07,"Other country",0.15000000000000002,"Language of the test",0.19,"Internet at home: Yes",0.07,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Female",-0.0299218105903627,"Other country",0.0733429035211803,"Language of the test",0.100311242121761,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Female",-0.41000000000000003,"Other country",-0.18,"Language of the test",-0.21000000000000002,"Internet at home: Yes",-0.16,"Computer for school work at home: No",-0.4
+"Croatia","Female",-0.128212540216528,"Other country",0.0511724359779766,"Language of the test",0.053670992706255485,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Female",0.19232177426618993,"Other country",0.3616130898024111,"Language of the test",0.26965650721225204,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Female",-0.14,"Other country",-0.21000000000000002,"Language of the test",-0.08,"Internet at home: Yes",-0.06,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Female",0,"Other country",0.22,"Language of the test",0.32,"Internet at home: Yes",0.17,"Computer for school work at home: No",0.02
+"Morocco","Female",-0.17,"Other country",-0.19,"Language of the test",-0.37,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.32
+"Russia","Female",-0.3010668621489971,"Other country",-0.164339772426381,"Language of the test",-0.09780883908157527,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Female",-0.11,"Other country",0.15000000000000002,"Language of the test",0.02,"Internet at home: Yes",0.02,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Female",0.028398090865043395,"Other country",0.31272914000634494,"Language of the test",0.231364845076525,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Female",-0.2770199972480421,"Other country",-0.236639586221533,"Language of the test",-0.179773741743882,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: No",-0.30116666196235303
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Other country",0.013269880002852,"Language of the test",-0.0069524710759324496,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Male",0.11039829483719,"Other country",-0.035764213414402,"Language of the test",-0.0582130506171218,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Male",0.16,"Other country",-0.14,"Language of the test",-0.05,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.2
+"Greece","Male",0.0728811326302378,"Other country",-0.143599529772733,"Language of the test",-0.134118419683387,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: No",-0.316183717522175
+"Israel","Male",0.16,"Other country",0.09,"Language of the test",0.02,"Internet at home: Yes",0.04,"Computer for school work at home: No",-0.3
+"Korea","Male",-0.10003768714373798,"Other country",-0.16544626614594704,"Language of the test",-0.21364179957570903,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Male",0.11812961298930498,"Other country",0.042577698055548015,"Language of the test",-0.022504612419221907,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Male",0.35,"Other country",0.18,"Language of the test",0.19,"Internet at home: Yes",0.18,"Computer for school work at home: No",-0.14
+"Slovak Republic","Male",-0.11,"Other country",-0.3,"Language of the test",-0.33999999999999997,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: No",-0.54
+"Spain","Male",0.22,"Other country",0.16,"Language of the test",0.08,"Internet at home: Yes",0.09,"Computer for school work at home: No",-0.04
+"Albania","Male",0.170690781600969,"Other country",0.22988842593417996,"Language of the test",0.067484977520734,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Male",0.1,"Other country",0.15000000000000002,"Language of the test",0.19,"Internet at home: Yes",0.07,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Male",0.213730683903741,"Other country",0.0733429035211803,"Language of the test",0.100311242121761,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Male",0.02,"Other country",-0.18,"Language of the test",-0.21000000000000002,"Internet at home: Yes",-0.16,"Computer for school work at home: No",-0.4
+"Croatia","Male",0.250261429874128,"Other country",0.0511724359779766,"Language of the test",0.053670992706255485,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Male",0.356800063633103,"Other country",0.3616130898024111,"Language of the test",0.26965650721225204,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Male",-0.03,"Other country",-0.21000000000000002,"Language of the test",-0.08,"Internet at home: Yes",-0.06,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Male",0.33999999999999997,"Other country",0.22,"Language of the test",0.32,"Internet at home: Yes",0.17,"Computer for school work at home: No",0.02
+"Morocco","Male",-0.17,"Other country",-0.19,"Language of the test",-0.37,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.32
+"Russia","Male",0.09720048452986328,"Other country",-0.164339772426381,"Language of the test",-0.09780883908157527,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Male",0.14,"Other country",0.15000000000000002,"Language of the test",0.02,"Internet at home: Yes",0.02,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Male",0.41137089012260003,"Other country",0.31272914000634494,"Language of the test",0.231364845076525,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Male",-0.0770402736054214,"Other country",-0.236639586221533,"Language of the test",-0.179773741743882,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: No",-0.30116666196235303
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Country of test",-0.0178115499303537,"Other language",-0.0126222962437893,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Female",-0.231139823549349,"Country of test",-0.06118558477029008,"Other language",-0.0387796398725658,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Female",-0.26,"Country of test",-0.04,"Other language",0.26,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.2
+"Greece","Female",-0.33067496466445906,"Country of test",-0.130463776058161,"Other language",-0.11207719901688,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: No",-0.316183717522175
+"Israel","Female",-0.11,"Country of test",0.02,"Other language",0.08,"Internet at home: Yes",0.04,"Computer for school work at home: No",-0.3
+"Korea","Female",-0.33601574745708496,"Country of test",-0.211304977078104,"Other language",0.010223362905998496,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Female",-0.181880080799872,"Country of test",-0.03943891215162831,"Other language",-0.15178580085147805,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Female",-0.01,"Country of test",0.17,"Other language",-0.09,"Internet at home: Yes",0.18,"Computer for school work at home: No",-0.14
+"Slovak Republic","Female",-0.56,"Country of test",-0.33999999999999997,"Other language",-0.4,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: No",-0.54
+"Spain","Female",-0.06,"Country of test",0.08,"Other language",0.09,"Internet at home: Yes",0.09,"Computer for school work at home: No",-0.04
+"Albania","Female",-0.04029459790932081,"Country of test",0.054420172673474085,"Other language",0.023542281261473695,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Female",-0.07,"Country of test",0.01,"Other language",-0.01,"Internet at home: Yes",0.07,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Female",-0.0299218105903627,"Country of test",0.09462635415180244,"Other language",0.0450325577827101,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Female",-0.41000000000000003,"Country of test",-0.2,"Other language",0.04,"Internet at home: Yes",-0.16,"Computer for school work at home: No",-0.4
+"Croatia","Female",-0.128212540216528,"Country of test",0.0554082038408991,"Other language",0.11777050805017801,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Female",0.19232177426618993,"Country of test",0.252899880079299,"Other language",0.30132148018960503,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Female",-0.14,"Country of test",-0.07,"Other language",-0.11,"Internet at home: Yes",-0.06,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Female",0,"Country of test",0.16,"Other language",0.13,"Internet at home: Yes",0.17,"Computer for school work at home: No",0.02
+"Morocco","Female",-0.17,"Country of test",-0.17,"Other language",-0.15000000000000002,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.32
+"Russia","Female",-0.3010668621489971,"Country of test",-0.10402672903724602,"Other language",-0.219308574640948,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Female",-0.11,"Country of test",0.02,"Other language",0.01,"Internet at home: Yes",0.02,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Female",0.028398090865043395,"Country of test",0.20404539847019507,"Other language",0.21247003517732205,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Female",-0.2770199972480421,"Country of test",-0.182573424870838,"Other language",-0.354434863496541,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: No",-0.30116666196235303
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Country of test",-0.0178115499303537,"Other language",-0.0126222962437893,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Male",0.11039829483719,"Country of test",-0.06118558477029008,"Other language",-0.0387796398725658,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Male",0.16,"Country of test",-0.04,"Other language",0.26,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.2
+"Greece","Male",0.0728811326302378,"Country of test",-0.130463776058161,"Other language",-0.11207719901688,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: No",-0.316183717522175
+"Israel","Male",0.16,"Country of test",0.02,"Other language",0.08,"Internet at home: Yes",0.04,"Computer for school work at home: No",-0.3
+"Korea","Male",-0.10003768714373798,"Country of test",-0.211304977078104,"Other language",0.010223362905998496,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Male",0.11812961298930498,"Country of test",-0.03943891215162831,"Other language",-0.15178580085147805,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Male",0.35,"Country of test",0.17,"Other language",-0.09,"Internet at home: Yes",0.18,"Computer for school work at home: No",-0.14
+"Slovak Republic","Male",-0.11,"Country of test",-0.33999999999999997,"Other language",-0.4,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: No",-0.54
+"Spain","Male",0.22,"Country of test",0.08,"Other language",0.09,"Internet at home: Yes",0.09,"Computer for school work at home: No",-0.04
+"Albania","Male",0.170690781600969,"Country of test",0.054420172673474085,"Other language",0.023542281261473695,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Male",0.1,"Country of test",0.01,"Other language",-0.01,"Internet at home: Yes",0.07,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Male",0.213730683903741,"Country of test",0.09462635415180244,"Other language",0.0450325577827101,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Male",0.02,"Country of test",-0.2,"Other language",0.04,"Internet at home: Yes",-0.16,"Computer for school work at home: No",-0.4
+"Croatia","Male",0.250261429874128,"Country of test",0.0554082038408991,"Other language",0.11777050805017801,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Male",0.356800063633103,"Country of test",0.252899880079299,"Other language",0.30132148018960503,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Male",-0.03,"Country of test",-0.07,"Other language",-0.11,"Internet at home: Yes",-0.06,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Male",0.33999999999999997,"Country of test",0.16,"Other language",0.13,"Internet at home: Yes",0.17,"Computer for school work at home: No",0.02
+"Morocco","Male",-0.17,"Country of test",-0.17,"Other language",-0.15000000000000002,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.32
+"Russia","Male",0.09720048452986328,"Country of test",-0.10402672903724602,"Other language",-0.219308574640948,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Male",0.14,"Country of test",0.02,"Other language",0.01,"Internet at home: Yes",0.02,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Male",0.41137089012260003,"Country of test",0.20404539847019507,"Other language",0.21247003517732205,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Male",-0.0770402736054214,"Country of test",-0.182573424870838,"Other language",-0.354434863496541,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: No",-0.30116666196235303
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Other country",0.013269880002852,"Other language",-0.0126222962437893,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Female",-0.231139823549349,"Other country",-0.035764213414402,"Other language",-0.0387796398725658,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Female",-0.26,"Other country",-0.14,"Other language",0.26,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.2
+"Greece","Female",-0.33067496466445906,"Other country",-0.143599529772733,"Other language",-0.11207719901688,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: No",-0.316183717522175
+"Israel","Female",-0.11,"Other country",0.09,"Other language",0.08,"Internet at home: Yes",0.04,"Computer for school work at home: No",-0.3
+"Korea","Female",-0.33601574745708496,"Other country",-0.16544626614594704,"Other language",0.010223362905998496,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Female",-0.181880080799872,"Other country",0.042577698055548015,"Other language",-0.15178580085147805,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Female",-0.01,"Other country",0.18,"Other language",-0.09,"Internet at home: Yes",0.18,"Computer for school work at home: No",-0.14
+"Slovak Republic","Female",-0.56,"Other country",-0.3,"Other language",-0.4,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: No",-0.54
+"Spain","Female",-0.06,"Other country",0.16,"Other language",0.09,"Internet at home: Yes",0.09,"Computer for school work at home: No",-0.04
+"Albania","Female",-0.04029459790932081,"Other country",0.22988842593417996,"Other language",0.023542281261473695,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Female",-0.07,"Other country",0.15000000000000002,"Other language",-0.01,"Internet at home: Yes",0.07,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Female",-0.0299218105903627,"Other country",0.0733429035211803,"Other language",0.0450325577827101,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Female",-0.41000000000000003,"Other country",-0.18,"Other language",0.04,"Internet at home: Yes",-0.16,"Computer for school work at home: No",-0.4
+"Croatia","Female",-0.128212540216528,"Other country",0.0511724359779766,"Other language",0.11777050805017801,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Female",0.19232177426618993,"Other country",0.3616130898024111,"Other language",0.30132148018960503,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Female",-0.14,"Other country",-0.21000000000000002,"Other language",-0.11,"Internet at home: Yes",-0.06,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Female",0,"Other country",0.22,"Other language",0.13,"Internet at home: Yes",0.17,"Computer for school work at home: No",0.02
+"Morocco","Female",-0.17,"Other country",-0.19,"Other language",-0.15000000000000002,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.32
+"Russia","Female",-0.3010668621489971,"Other country",-0.164339772426381,"Other language",-0.219308574640948,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Female",-0.11,"Other country",0.15000000000000002,"Other language",0.01,"Internet at home: Yes",0.02,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Female",0.028398090865043395,"Other country",0.31272914000634494,"Other language",0.21247003517732205,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Female",-0.2770199972480421,"Other country",-0.236639586221533,"Other language",-0.354434863496541,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: No",-0.30116666196235303
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Other country",0.013269880002852,"Other language",-0.0126222962437893,"Internet at home: Yes",0.009665900492545041,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Male",0.11039829483719,"Other country",-0.035764213414402,"Other language",-0.0387796398725658,"Internet at home: Yes",-0.0499189828673951,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Male",0.16,"Other country",-0.14,"Other language",0.26,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.2
+"Greece","Male",0.0728811326302378,"Other country",-0.143599529772733,"Other language",-0.11207719901688,"Internet at home: Yes",-0.12151179755527401,"Computer for school work at home: No",-0.316183717522175
+"Israel","Male",0.16,"Other country",0.09,"Other language",0.08,"Internet at home: Yes",0.04,"Computer for school work at home: No",-0.3
+"Korea","Male",-0.10003768714373798,"Other country",-0.16544626614594704,"Other language",0.010223362905998496,"Internet at home: Yes",-0.19755187329479199,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Male",0.11812961298930498,"Other country",0.042577698055548015,"Other language",-0.15178580085147805,"Internet at home: Yes",-0.030361994243201892,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Male",0.35,"Other country",0.18,"Other language",-0.09,"Internet at home: Yes",0.18,"Computer for school work at home: No",-0.14
+"Slovak Republic","Male",-0.11,"Other country",-0.3,"Other language",-0.4,"Internet at home: Yes",-0.32999999999999996,"Computer for school work at home: No",-0.54
+"Spain","Male",0.22,"Other country",0.16,"Other language",0.09,"Internet at home: Yes",0.09,"Computer for school work at home: No",-0.04
+"Albania","Male",0.170690781600969,"Other country",0.22988842593417996,"Other language",0.023542281261473695,"Internet at home: Yes",0.14872133128916704,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Male",0.1,"Other country",0.15000000000000002,"Other language",-0.01,"Internet at home: Yes",0.07,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Male",0.213730683903741,"Other country",0.0733429035211803,"Other language",0.0450325577827101,"Internet at home: Yes",0.10574027428617504,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Male",0.02,"Other country",-0.18,"Other language",0.04,"Internet at home: Yes",-0.16,"Computer for school work at home: No",-0.4
+"Croatia","Male",0.250261429874128,"Other country",0.0511724359779766,"Other language",0.11777050805017801,"Internet at home: Yes",0.06079456947812361,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Male",0.356800063633103,"Other country",0.3616130898024111,"Other language",0.30132148018960503,"Internet at home: Yes",0.28191405998349606,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Male",-0.03,"Other country",-0.21000000000000002,"Other language",-0.11,"Internet at home: Yes",-0.06,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Male",0.33999999999999997,"Other country",0.22,"Other language",0.13,"Internet at home: Yes",0.17,"Computer for school work at home: No",0.02
+"Morocco","Male",-0.17,"Other country",-0.19,"Other language",-0.15000000000000002,"Internet at home: Yes",-0.02,"Computer for school work at home: No",-0.32
+"Russia","Male",0.09720048452986328,"Other country",-0.164339772426381,"Other language",-0.219308574640948,"Internet at home: Yes",-0.10059648065590902,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Male",0.14,"Other country",0.15000000000000002,"Other language",0.01,"Internet at home: Yes",0.02,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Male",0.41137089012260003,"Other country",0.31272914000634494,"Other language",0.21247003517732205,"Internet at home: Yes",0.230177238075119,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Male",-0.0770402736054214,"Other country",-0.236639586221533,"Other language",-0.354434863496541,"Internet at home: Yes",-0.14874917212031205,"Computer for school work at home: No",-0.30116666196235303
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Country of test",-0.0178115499303537,"Language of the test",-0.0069524710759324496,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Female",-0.231139823549349,"Country of test",-0.06118558477029008,"Language of the test",-0.0582130506171218,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Female",-0.26,"Country of test",-0.04,"Language of the test",-0.05,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.2
+"Greece","Female",-0.33067496466445906,"Country of test",-0.130463776058161,"Language of the test",-0.134118419683387,"Internet at home: No",-0.341651903464657,"Computer for school work at home: No",-0.316183717522175
+"Israel","Female",-0.11,"Country of test",0.02,"Language of the test",0.02,"Internet at home: No",-0.52,"Computer for school work at home: No",-0.3
+"Korea","Female",-0.33601574745708496,"Country of test",-0.211304977078104,"Language of the test",-0.21364179957570903,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Female",-0.181880080799872,"Country of test",-0.03943891215162831,"Language of the test",-0.022504612419221907,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Female",-0.01,"Country of test",0.17,"Language of the test",0.19,"Internet at home: No",-0.46,"Computer for school work at home: No",-0.14
+"Slovak Republic","Female",-0.56,"Country of test",-0.33999999999999997,"Language of the test",-0.33999999999999997,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: No",-0.54
+"Spain","Female",-0.06,"Country of test",0.08,"Language of the test",0.08,"Internet at home: No",-0.09,"Computer for school work at home: No",-0.04
+"Albania","Female",-0.04029459790932081,"Country of test",0.054420172673474085,"Language of the test",0.067484977520734,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Female",-0.07,"Country of test",0.01,"Language of the test",0.19,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Female",-0.0299218105903627,"Country of test",0.09462635415180244,"Language of the test",0.100311242121761,"Internet at home: No",-0.230113835200769,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Female",-0.41000000000000003,"Country of test",-0.2,"Language of the test",-0.21000000000000002,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: No",-0.4
+"Croatia","Female",-0.128212540216528,"Country of test",0.0554082038408991,"Language of the test",0.053670992706255485,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Female",0.19232177426618993,"Country of test",0.252899880079299,"Language of the test",0.26965650721225204,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Female",-0.14,"Country of test",-0.07,"Language of the test",-0.08,"Internet at home: No",-0.28,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Female",0,"Country of test",0.16,"Language of the test",0.32,"Internet at home: No",-0.02,"Computer for school work at home: No",0.02
+"Morocco","Female",-0.17,"Country of test",-0.17,"Language of the test",-0.37,"Internet at home: No",-0.38,"Computer for school work at home: No",-0.32
+"Russia","Female",-0.3010668621489971,"Country of test",-0.10402672903724602,"Language of the test",-0.09780883908157527,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Female",-0.11,"Country of test",0.02,"Language of the test",0.02,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Female",0.028398090865043395,"Country of test",0.20404539847019507,"Language of the test",0.231364845076525,"Internet at home: No",-0.151154284288941,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Female",-0.2770199972480421,"Country of test",-0.182573424870838,"Language of the test",-0.179773741743882,"Internet at home: No",-0.351993760848062,"Computer for school work at home: No",-0.30116666196235303
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Country of test",-0.0178115499303537,"Language of the test",-0.0069524710759324496,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Male",0.11039829483719,"Country of test",-0.06118558477029008,"Language of the test",-0.0582130506171218,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Male",0.16,"Country of test",-0.04,"Language of the test",-0.05,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.2
+"Greece","Male",0.0728811326302378,"Country of test",-0.130463776058161,"Language of the test",-0.134118419683387,"Internet at home: No",-0.341651903464657,"Computer for school work at home: No",-0.316183717522175
+"Israel","Male",0.16,"Country of test",0.02,"Language of the test",0.02,"Internet at home: No",-0.52,"Computer for school work at home: No",-0.3
+"Korea","Male",-0.10003768714373798,"Country of test",-0.211304977078104,"Language of the test",-0.21364179957570903,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Male",0.11812961298930498,"Country of test",-0.03943891215162831,"Language of the test",-0.022504612419221907,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Male",0.35,"Country of test",0.17,"Language of the test",0.19,"Internet at home: No",-0.46,"Computer for school work at home: No",-0.14
+"Slovak Republic","Male",-0.11,"Country of test",-0.33999999999999997,"Language of the test",-0.33999999999999997,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: No",-0.54
+"Spain","Male",0.22,"Country of test",0.08,"Language of the test",0.08,"Internet at home: No",-0.09,"Computer for school work at home: No",-0.04
+"Albania","Male",0.170690781600969,"Country of test",0.054420172673474085,"Language of the test",0.067484977520734,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Male",0.1,"Country of test",0.01,"Language of the test",0.19,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Male",0.213730683903741,"Country of test",0.09462635415180244,"Language of the test",0.100311242121761,"Internet at home: No",-0.230113835200769,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Male",0.02,"Country of test",-0.2,"Language of the test",-0.21000000000000002,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: No",-0.4
+"Croatia","Male",0.250261429874128,"Country of test",0.0554082038408991,"Language of the test",0.053670992706255485,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Male",0.356800063633103,"Country of test",0.252899880079299,"Language of the test",0.26965650721225204,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Male",-0.03,"Country of test",-0.07,"Language of the test",-0.08,"Internet at home: No",-0.28,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Male",0.33999999999999997,"Country of test",0.16,"Language of the test",0.32,"Internet at home: No",-0.02,"Computer for school work at home: No",0.02
+"Morocco","Male",-0.17,"Country of test",-0.17,"Language of the test",-0.37,"Internet at home: No",-0.38,"Computer for school work at home: No",-0.32
+"Russia","Male",0.09720048452986328,"Country of test",-0.10402672903724602,"Language of the test",-0.09780883908157527,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Male",0.14,"Country of test",0.02,"Language of the test",0.02,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Male",0.41137089012260003,"Country of test",0.20404539847019507,"Language of the test",0.231364845076525,"Internet at home: No",-0.151154284288941,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Male",-0.0770402736054214,"Country of test",-0.182573424870838,"Language of the test",-0.179773741743882,"Internet at home: No",-0.351993760848062,"Computer for school work at home: No",-0.30116666196235303
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Other country",0.013269880002852,"Language of the test",-0.0069524710759324496,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Female",-0.231139823549349,"Other country",-0.035764213414402,"Language of the test",-0.0582130506171218,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Female",-0.26,"Other country",-0.14,"Language of the test",-0.05,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.2
+"Greece","Female",-0.33067496466445906,"Other country",-0.143599529772733,"Language of the test",-0.134118419683387,"Internet at home: No",-0.341651903464657,"Computer for school work at home: No",-0.316183717522175
+"Israel","Female",-0.11,"Other country",0.09,"Language of the test",0.02,"Internet at home: No",-0.52,"Computer for school work at home: No",-0.3
+"Korea","Female",-0.33601574745708496,"Other country",-0.16544626614594704,"Language of the test",-0.21364179957570903,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Female",-0.181880080799872,"Other country",0.042577698055548015,"Language of the test",-0.022504612419221907,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Female",-0.01,"Other country",0.18,"Language of the test",0.19,"Internet at home: No",-0.46,"Computer for school work at home: No",-0.14
+"Slovak Republic","Female",-0.56,"Other country",-0.3,"Language of the test",-0.33999999999999997,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: No",-0.54
+"Spain","Female",-0.06,"Other country",0.16,"Language of the test",0.08,"Internet at home: No",-0.09,"Computer for school work at home: No",-0.04
+"Albania","Female",-0.04029459790932081,"Other country",0.22988842593417996,"Language of the test",0.067484977520734,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Female",-0.07,"Other country",0.15000000000000002,"Language of the test",0.19,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Female",-0.0299218105903627,"Other country",0.0733429035211803,"Language of the test",0.100311242121761,"Internet at home: No",-0.230113835200769,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Female",-0.41000000000000003,"Other country",-0.18,"Language of the test",-0.21000000000000002,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: No",-0.4
+"Croatia","Female",-0.128212540216528,"Other country",0.0511724359779766,"Language of the test",0.053670992706255485,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Female",0.19232177426618993,"Other country",0.3616130898024111,"Language of the test",0.26965650721225204,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Female",-0.14,"Other country",-0.21000000000000002,"Language of the test",-0.08,"Internet at home: No",-0.28,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Female",0,"Other country",0.22,"Language of the test",0.32,"Internet at home: No",-0.02,"Computer for school work at home: No",0.02
+"Morocco","Female",-0.17,"Other country",-0.19,"Language of the test",-0.37,"Internet at home: No",-0.38,"Computer for school work at home: No",-0.32
+"Russia","Female",-0.3010668621489971,"Other country",-0.164339772426381,"Language of the test",-0.09780883908157527,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Female",-0.11,"Other country",0.15000000000000002,"Language of the test",0.02,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Female",0.028398090865043395,"Other country",0.31272914000634494,"Language of the test",0.231364845076525,"Internet at home: No",-0.151154284288941,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Female",-0.2770199972480421,"Other country",-0.236639586221533,"Language of the test",-0.179773741743882,"Internet at home: No",-0.351993760848062,"Computer for school work at home: No",-0.30116666196235303
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Other country",0.013269880002852,"Language of the test",-0.0069524710759324496,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Male",0.11039829483719,"Other country",-0.035764213414402,"Language of the test",-0.0582130506171218,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Male",0.16,"Other country",-0.14,"Language of the test",-0.05,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.2
+"Greece","Male",0.0728811326302378,"Other country",-0.143599529772733,"Language of the test",-0.134118419683387,"Internet at home: No",-0.341651903464657,"Computer for school work at home: No",-0.316183717522175
+"Israel","Male",0.16,"Other country",0.09,"Language of the test",0.02,"Internet at home: No",-0.52,"Computer for school work at home: No",-0.3
+"Korea","Male",-0.10003768714373798,"Other country",-0.16544626614594704,"Language of the test",-0.21364179957570903,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Male",0.11812961298930498,"Other country",0.042577698055548015,"Language of the test",-0.022504612419221907,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Male",0.35,"Other country",0.18,"Language of the test",0.19,"Internet at home: No",-0.46,"Computer for school work at home: No",-0.14
+"Slovak Republic","Male",-0.11,"Other country",-0.3,"Language of the test",-0.33999999999999997,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: No",-0.54
+"Spain","Male",0.22,"Other country",0.16,"Language of the test",0.08,"Internet at home: No",-0.09,"Computer for school work at home: No",-0.04
+"Albania","Male",0.170690781600969,"Other country",0.22988842593417996,"Language of the test",0.067484977520734,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Male",0.1,"Other country",0.15000000000000002,"Language of the test",0.19,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Male",0.213730683903741,"Other country",0.0733429035211803,"Language of the test",0.100311242121761,"Internet at home: No",-0.230113835200769,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Male",0.02,"Other country",-0.18,"Language of the test",-0.21000000000000002,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: No",-0.4
+"Croatia","Male",0.250261429874128,"Other country",0.0511724359779766,"Language of the test",0.053670992706255485,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Male",0.356800063633103,"Other country",0.3616130898024111,"Language of the test",0.26965650721225204,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Male",-0.03,"Other country",-0.21000000000000002,"Language of the test",-0.08,"Internet at home: No",-0.28,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Male",0.33999999999999997,"Other country",0.22,"Language of the test",0.32,"Internet at home: No",-0.02,"Computer for school work at home: No",0.02
+"Morocco","Male",-0.17,"Other country",-0.19,"Language of the test",-0.37,"Internet at home: No",-0.38,"Computer for school work at home: No",-0.32
+"Russia","Male",0.09720048452986328,"Other country",-0.164339772426381,"Language of the test",-0.09780883908157527,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Male",0.14,"Other country",0.15000000000000002,"Language of the test",0.02,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Male",0.41137089012260003,"Other country",0.31272914000634494,"Language of the test",0.231364845076525,"Internet at home: No",-0.151154284288941,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Male",-0.0770402736054214,"Other country",-0.236639586221533,"Language of the test",-0.179773741743882,"Internet at home: No",-0.351993760848062,"Computer for school work at home: No",-0.30116666196235303
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Country of test",-0.0178115499303537,"Other language",-0.0126222962437893,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Female",-0.231139823549349,"Country of test",-0.06118558477029008,"Other language",-0.0387796398725658,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Female",-0.26,"Country of test",-0.04,"Other language",0.26,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.2
+"Greece","Female",-0.33067496466445906,"Country of test",-0.130463776058161,"Other language",-0.11207719901688,"Internet at home: No",-0.341651903464657,"Computer for school work at home: No",-0.316183717522175
+"Israel","Female",-0.11,"Country of test",0.02,"Other language",0.08,"Internet at home: No",-0.52,"Computer for school work at home: No",-0.3
+"Korea","Female",-0.33601574745708496,"Country of test",-0.211304977078104,"Other language",0.010223362905998496,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Female",-0.181880080799872,"Country of test",-0.03943891215162831,"Other language",-0.15178580085147805,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Female",-0.01,"Country of test",0.17,"Other language",-0.09,"Internet at home: No",-0.46,"Computer for school work at home: No",-0.14
+"Slovak Republic","Female",-0.56,"Country of test",-0.33999999999999997,"Other language",-0.4,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: No",-0.54
+"Spain","Female",-0.06,"Country of test",0.08,"Other language",0.09,"Internet at home: No",-0.09,"Computer for school work at home: No",-0.04
+"Albania","Female",-0.04029459790932081,"Country of test",0.054420172673474085,"Other language",0.023542281261473695,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Female",-0.07,"Country of test",0.01,"Other language",-0.01,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Female",-0.0299218105903627,"Country of test",0.09462635415180244,"Other language",0.0450325577827101,"Internet at home: No",-0.230113835200769,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Female",-0.41000000000000003,"Country of test",-0.2,"Other language",0.04,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: No",-0.4
+"Croatia","Female",-0.128212540216528,"Country of test",0.0554082038408991,"Other language",0.11777050805017801,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Female",0.19232177426618993,"Country of test",0.252899880079299,"Other language",0.30132148018960503,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Female",-0.14,"Country of test",-0.07,"Other language",-0.11,"Internet at home: No",-0.28,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Female",0,"Country of test",0.16,"Other language",0.13,"Internet at home: No",-0.02,"Computer for school work at home: No",0.02
+"Morocco","Female",-0.17,"Country of test",-0.17,"Other language",-0.15000000000000002,"Internet at home: No",-0.38,"Computer for school work at home: No",-0.32
+"Russia","Female",-0.3010668621489971,"Country of test",-0.10402672903724602,"Other language",-0.219308574640948,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Female",-0.11,"Country of test",0.02,"Other language",0.01,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Female",0.028398090865043395,"Country of test",0.20404539847019507,"Other language",0.21247003517732205,"Internet at home: No",-0.151154284288941,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Female",-0.2770199972480421,"Country of test",-0.182573424870838,"Other language",-0.354434863496541,"Internet at home: No",-0.351993760848062,"Computer for school work at home: No",-0.30116666196235303
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Country of test",-0.0178115499303537,"Other language",-0.0126222962437893,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Male",0.11039829483719,"Country of test",-0.06118558477029008,"Other language",-0.0387796398725658,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Male",0.16,"Country of test",-0.04,"Other language",0.26,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.2
+"Greece","Male",0.0728811326302378,"Country of test",-0.130463776058161,"Other language",-0.11207719901688,"Internet at home: No",-0.341651903464657,"Computer for school work at home: No",-0.316183717522175
+"Israel","Male",0.16,"Country of test",0.02,"Other language",0.08,"Internet at home: No",-0.52,"Computer for school work at home: No",-0.3
+"Korea","Male",-0.10003768714373798,"Country of test",-0.211304977078104,"Other language",0.010223362905998496,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Male",0.11812961298930498,"Country of test",-0.03943891215162831,"Other language",-0.15178580085147805,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Male",0.35,"Country of test",0.17,"Other language",-0.09,"Internet at home: No",-0.46,"Computer for school work at home: No",-0.14
+"Slovak Republic","Male",-0.11,"Country of test",-0.33999999999999997,"Other language",-0.4,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: No",-0.54
+"Spain","Male",0.22,"Country of test",0.08,"Other language",0.09,"Internet at home: No",-0.09,"Computer for school work at home: No",-0.04
+"Albania","Male",0.170690781600969,"Country of test",0.054420172673474085,"Other language",0.023542281261473695,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Male",0.1,"Country of test",0.01,"Other language",-0.01,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Male",0.213730683903741,"Country of test",0.09462635415180244,"Other language",0.0450325577827101,"Internet at home: No",-0.230113835200769,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Male",0.02,"Country of test",-0.2,"Other language",0.04,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: No",-0.4
+"Croatia","Male",0.250261429874128,"Country of test",0.0554082038408991,"Other language",0.11777050805017801,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Male",0.356800063633103,"Country of test",0.252899880079299,"Other language",0.30132148018960503,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Male",-0.03,"Country of test",-0.07,"Other language",-0.11,"Internet at home: No",-0.28,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Male",0.33999999999999997,"Country of test",0.16,"Other language",0.13,"Internet at home: No",-0.02,"Computer for school work at home: No",0.02
+"Morocco","Male",-0.17,"Country of test",-0.17,"Other language",-0.15000000000000002,"Internet at home: No",-0.38,"Computer for school work at home: No",-0.32
+"Russia","Male",0.09720048452986328,"Country of test",-0.10402672903724602,"Other language",-0.219308574640948,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Male",0.14,"Country of test",0.02,"Other language",0.01,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Male",0.41137089012260003,"Country of test",0.20404539847019507,"Other language",0.21247003517732205,"Internet at home: No",-0.151154284288941,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Male",-0.0770402736054214,"Country of test",-0.182573424870838,"Other language",-0.354434863496541,"Internet at home: No",-0.351993760848062,"Computer for school work at home: No",-0.30116666196235303
+"Selected countries and jurisdictions","Female",-0.15670883996128604,"Other country",0.013269880002852,"Other language",-0.0126222962437893,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Female",-0.231139823549349,"Other country",-0.035764213414402,"Other language",-0.0387796398725658,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Female",-0.26,"Other country",-0.14,"Other language",0.26,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.2
+"Greece","Female",-0.33067496466445906,"Other country",-0.143599529772733,"Other language",-0.11207719901688,"Internet at home: No",-0.341651903464657,"Computer for school work at home: No",-0.316183717522175
+"Israel","Female",-0.11,"Other country",0.09,"Other language",0.08,"Internet at home: No",-0.52,"Computer for school work at home: No",-0.3
+"Korea","Female",-0.33601574745708496,"Other country",-0.16544626614594704,"Other language",0.010223362905998496,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Female",-0.181880080799872,"Other country",0.042577698055548015,"Other language",-0.15178580085147805,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Female",-0.01,"Other country",0.18,"Other language",-0.09,"Internet at home: No",-0.46,"Computer for school work at home: No",-0.14
+"Slovak Republic","Female",-0.56,"Other country",-0.3,"Other language",-0.4,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: No",-0.54
+"Spain","Female",-0.06,"Other country",0.16,"Other language",0.09,"Internet at home: No",-0.09,"Computer for school work at home: No",-0.04
+"Albania","Female",-0.04029459790932081,"Other country",0.22988842593417996,"Other language",0.023542281261473695,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Female",-0.07,"Other country",0.15000000000000002,"Other language",-0.01,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Female",-0.0299218105903627,"Other country",0.0733429035211803,"Other language",0.0450325577827101,"Internet at home: No",-0.230113835200769,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Female",-0.41000000000000003,"Other country",-0.18,"Other language",0.04,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: No",-0.4
+"Croatia","Female",-0.128212540216528,"Other country",0.0511724359779766,"Other language",0.11777050805017801,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Female",0.19232177426618993,"Other country",0.3616130898024111,"Other language",0.30132148018960503,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Female",-0.14,"Other country",-0.21000000000000002,"Other language",-0.11,"Internet at home: No",-0.28,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Female",0,"Other country",0.22,"Other language",0.13,"Internet at home: No",-0.02,"Computer for school work at home: No",0.02
+"Morocco","Female",-0.17,"Other country",-0.19,"Other language",-0.15000000000000002,"Internet at home: No",-0.38,"Computer for school work at home: No",-0.32
+"Russia","Female",-0.3010668621489971,"Other country",-0.164339772426381,"Other language",-0.219308574640948,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Female",-0.11,"Other country",0.15000000000000002,"Other language",0.01,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Female",0.028398090865043395,"Other country",0.31272914000634494,"Other language",0.21247003517732205,"Internet at home: No",-0.151154284288941,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Female",-0.2770199972480421,"Other country",-0.236639586221533,"Other language",-0.354434863496541,"Internet at home: No",-0.351993760848062,"Computer for school work at home: No",-0.30116666196235303
+"Selected countries and jurisdictions","Male",0.12897349519715504,"Other country",0.013269880002852,"Other language",-0.0126222962437893,"Internet at home: No",-0.33945583412217695,"Computer for school work at home: No",-0.210082662354101
+"International Average (OECD)","Male",0.11039829483719,"Other country",-0.035764213414402,"Other language",-0.0387796398725658,"Internet at home: No",-0.45787389127609707,"Computer for school work at home: No",-0.2763156613587751
+"Chile","Male",0.16,"Other country",-0.14,"Other language",0.26,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.2
+"Greece","Male",0.0728811326302378,"Other country",-0.143599529772733,"Other language",-0.11207719901688,"Internet at home: No",-0.341651903464657,"Computer for school work at home: No",-0.316183717522175
+"Israel","Male",0.16,"Other country",0.09,"Other language",0.08,"Internet at home: No",-0.52,"Computer for school work at home: No",-0.3
+"Korea","Male",-0.10003768714373798,"Other country",-0.16544626614594704,"Other language",0.010223362905998496,"Internet at home: No",-0.7689954179784212,"Computer for school work at home: No",-0.414252050187416
+"Latvia","Male",0.11812961298930498,"Other country",0.042577698055548015,"Other language",-0.15178580085147805,"Internet at home: No",-0.5779719283490541,"Computer for school work at home: No",-0.26443419510587707
+"Lithuania","Male",0.35,"Other country",0.18,"Other language",-0.09,"Internet at home: No",-0.46,"Computer for school work at home: No",-0.14
+"Slovak Republic","Male",-0.11,"Other country",-0.3,"Other language",-0.4,"Internet at home: No",-0.6799999999999999,"Computer for school work at home: No",-0.54
+"Spain","Male",0.22,"Other country",0.16,"Other language",0.09,"Internet at home: No",-0.09,"Computer for school work at home: No",-0.04
+"Albania","Male",0.170690781600969,"Other country",0.22988842593417996,"Other language",0.023542281261473695,"Internet at home: No",-0.24693341900793406,"Computer for school work at home: No",-0.16694899574744207
+"Brunei Darussalam","Male",0.1,"Other country",0.15000000000000002,"Other language",-0.01,"Internet at home: No",-0.21000000000000002,"Computer for school work at home: No",-0.1
+"Chinese Taipei","Male",0.213730683903741,"Other country",0.0733429035211803,"Other language",0.0450325577827101,"Internet at home: No",-0.230113835200769,"Computer for school work at home: No",-0.08203455138781701
+"Costa Rica","Male",0.02,"Other country",-0.18,"Other language",0.04,"Internet at home: No",-0.42000000000000004,"Computer for school work at home: No",-0.4
+"Croatia","Male",0.250261429874128,"Other country",0.0511724359779766,"Other language",0.11777050805017801,"Internet at home: No",-0.5454244963471812,"Computer for school work at home: No",-0.320229435669307
+"Hong Kong (China)","Male",0.356800063633103,"Other country",0.3616130898024111,"Other language",0.30132148018960503,"Internet at home: No",-0.00803920867032604,"Computer for school work at home: No",0.15916610665933104
+"Kazakhstan","Male",-0.03,"Other country",-0.21000000000000002,"Other language",-0.11,"Internet at home: No",-0.28,"Computer for school work at home: No",-0.24000000000000002
+"Malta","Male",0.33999999999999997,"Other country",0.22,"Other language",0.13,"Internet at home: No",-0.02,"Computer for school work at home: No",0.02
+"Morocco","Male",-0.17,"Other country",-0.19,"Other language",-0.15000000000000002,"Internet at home: No",-0.38,"Computer for school work at home: No",-0.32
+"Russia","Male",0.09720048452986328,"Other country",-0.164339772426381,"Other language",-0.219308574640948,"Internet at home: No",-0.39935852770743907,"Computer for school work at home: No",-0.235000465227738
+"Serbia","Male",0.14,"Other country",0.15000000000000002,"Other language",0.01,"Internet at home: No",-0.23,"Computer for school work at home: No",-0.21000000000000002
+"Singapore","Male",0.41137089012260003,"Other country",0.31272914000634494,"Other language",0.21247003517732205,"Internet at home: No",-0.151154284288941,"Computer for school work at home: No",0.0053141894819463
+"Thailand","Male",-0.0770402736054214,"Other country",-0.236639586221533,"Other language",-0.354434863496541,"Internet at home: No",-0.351993760848062,"Computer for school work at home: No",-0.30116666196235303
